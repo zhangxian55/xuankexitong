@@ -1,0 +1,27 @@
+{"bianhao":1,"jianjie":"专业化地学习心理学的理论与流派、研究方法、心理咨询理论与流派以及社会心理学","jiaoshi":"王璐","mingcheng":"基础心理学","renshu":30,"riqi":2,"xianzhi":[3,6],"xuesheng":[]}
+{"bianhao":6,"jianjie":"帮助学生拓宽国际视野，了解一些基本的外交礼仪","jiaoshi":"龚治权","mingcheng":"外交礼仪","renshu":30,"riqi":2,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":10,"jianjie":"英国历代国王及女王的生平简介","jiaoshi":"杨凡","mingcheng":"British Kings \u0026 Queens","renshu":30,"riqi":3,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":9,"jianjie":"通过观看各种美国电视、戏剧等来练习英语听力，并展开对于剧情的讨论以深化对内容的理解","jiaoshi":"Ashley","mingcheng":"American TV ","renshu":30,"riqi":3,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":8,"jianjie":"《指环王》是西方电影史上最有名同时也是最有意义的电影之一，十年前它就在中国掀起了一股热潮。在课堂上，你将重新感受这部经典电影，并学习其中的情节和人物","jiaoshi":"Bradley","mingcheng":"Lord of the Rings","renshu":30,"riqi":3,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":12,"jianjie":"基于奥赛考试大纲，于教材同步，进行知识梳理方法提炼，能力培养","jiaoshi":"数学组","mingcheng":"奥数辅导","renshu":30,"riqi":3,"xianzhi":"限初中","xuesheng":[]}
+{"bianhao":11,"jianjie":"了解英语辩论赛的流程，学习英语辩论的技巧，提高自身英语水平，结识更多的英语爱好者，拓展知识面，培养英语辩论选手","jiaoshi":"张雪琴","mingcheng":"英文辩论入门","renshu":30,"riqi":3,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":13,"jianjie":"以物理学科为依据，从概念、思想方法的角度加强对科学的认识，对学生进行物理文化创新启蒙，培养良好的思维习惯，形成一定的科研能力","jiaoshi":"物理组","mingcheng":"物理思维方法","renshu":30,"riqi":3,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":14,"jianjie":"识别常见园林绿化植物，了解他们结构特征、基本生活习性和审美价值；掌握植物分类学的基础知识，尝试在校园进行植物分类挂牌，进行校园绿化设计，有条件的情况下，进行部分观赏植物的栽培活动","jiaoshi":"徐广宇","mingcheng":"常见园林绿化植物的鉴赏","renshu":30,"riqi":3,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":7,"jianjie":"模拟联合国是对联合国大会和其它多边机构的仿真学术模拟，是为青年人组织的公民教育活动。在活动中，青年学生们扮演不同国家或其它政治实体的外交代表，参与围绕国际上的热点问题召开的会议。代表们遵循议事规则，在会议主席团的主持下，通过演讲阐述观点，为了“国家利益”辩论、磋商、游说。他们与友好的国家沟通协作，解决冲突；通过写作决议草案和投票表决来推进国际问题的解决。在模拟联合国，青年学生们通过亲身经历熟悉联合国等多边议事机构的运作方式、基础国际关系与8外交知识，并了解世界发生的大事对他们未来的影响，了解自身在未来可以发挥的作用。","jiaoshi":"赵丽","mingcheng":"模拟联合国","renshu":30,"riqi":2,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":15,"jianjie":"尝试生物模型的制作，在做中学，掌握常见的生物的结构以及核心概念","jiaoshi":"李学娟","mingcheng":"生物模型制作","renshu":30,"riqi":3,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":16,"jianjie":"掌握拼装方法，学会用LEGO MINDSTORMS NXT编程控制机器人","jiaoshi":"程菁","mingcheng":"机器人初探","renshu":30,"riqi":5,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":4,"jianjie":"巴以冲突、乌克兰危机、非洲种族矛盾等","jiaoshi":"历史组","mingcheng":"“国际热点”历史溯源","renshu":30,"riqi":2,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":5,"jianjie":"旅游地理的基本知识，讲解旅游的美学知识，介绍旅游中的“自然美”、“生活美”、“艺术美”等内容，介绍如何去欣赏景观，培养学生的审美能力","jiaoshi":"地理组","mingcheng":"旅游地理与审美教育","renshu":30,"riqi":2,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":18,"jianjie":"融体操、音乐与舞蹈于一体，追求人体健与美","jiaoshi":"刘洋","mingcheng":"街舞","renshu":30,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":17,"jianjie":"学习网页设计和制作，使用HTML5和CSS3打造华丽效果。","jiaoshi":"甘宁","mingcheng":"平面设计与网页制作","renshu":30,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":19,"jianjie":"掌握运球、原地双手胸前传、接球、投篮；行进间体前变向换手运球等技术","jiaoshi":"蒋波","mingcheng":"篮球","renshu":30,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":20,"jianjie":"学习足球的运、传、扣、拨及射门技术","jiaoshi":"魏炜","mingcheng":"足球","renshu":30,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":21,"jianjie":"防身与格斗基本技术","jiaoshi":"刘洋（小）","mingcheng":"防身与格斗","renshu":30,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":22,"jianjie":"掌握握拍、推、拨球技术；发奔球技术，推直线球、斜线球技术","jiaoshi":"章雪敏","mingcheng":"乒乓球","renshu":30,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":24,"jianjie":"了解中外通俗音乐几大主要类型，并能从中习得一定的演唱技巧","jiaoshi":"何伟","mingcheng":"通俗音乐赏析与演唱","renshu":15,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":25,"jianjie":"掌握基础乐理知识，能写出简单音乐作品，提升音乐层次","jiaoshi":"黄可","mingcheng":"歌曲写作","renshu":15,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":23,"jianjie":"学习羽毛球基本技术，如：握拍、步法、正反手低击球、高运球、扣、杀球等","jiaoshi":"李振荣","mingcheng":"羽毛球","renshu":15,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":26,"jianjie":"研习卡通漫画，提高学生的审美；学习技法，自己创作","jiaoshi":"陈建军","mingcheng":"卡通漫画技法","renshu":15,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":27,"jianjie":"通过相机去寻找生活的细节，五捕捉身边的精彩","jiaoshi":"陆阳","mingcheng":"摄影","renshu":15,"riqi":5,"xianzhi":[1,2,4,5],"xuesheng":[]}
+{"bianhao":3,"jianjie":"分析国际热点、弄清来龙去脉、拓宽视野、训练多元思维","jiaoshi":"朱先余","mingcheng":"时事热点分析","renshu":30,"riqi":2,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}
+{"bianhao":2,"jianjie":"通过电影、音乐、诗歌等多种较为感性的视听语言解读，跨界感性的视听语言的解读，体会经典与流行的魅力，拓展教材阅读的视野，丰富学生校园文化的文化含金量，自觉抵制流俗文化的侵蚀","jiaoshi":"张勤敏","mingcheng":"电影 音乐 诗歌","renshu":30,"riqi":2,"xianzhi":[1,2,3,4,5,6],"xuesheng":[]}

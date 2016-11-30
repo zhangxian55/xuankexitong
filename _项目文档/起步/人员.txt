@@ -1,0 +1,62 @@
+﻿{"xuehao":150104001,"xingming":"雷胜珍",	 "xingbie":"女"}
+{"xuehao":150104002,"xingming":"邰秋荣",	 "xingbie":"女"}
+{"xuehao":150104003,"xingming":"左惠",	 "xingbie":"女"}
+{"xuehao":150104004,"xingming":"刘莉",	 "xingbie":"女"}
+{"xuehao":150104005,"xingming":"潘巧丽",	 "xingbie":"女"}
+{"xuehao":150104006,"xingming":"穆显钰",	 "xingbie":"男"}
+{"xuehao":150104007,"xingming":"高杰",	 "xingbie":"女"}
+{"xuehao":150104008,"xingming":"杨文涛",	 "xingbie":"女"}
+{"xuehao":150104009,"xingming":"邰秋明",	 "xingbie":"男"}
+{"xuehao":150104010,"xingming":"邰梅香",	 "xingbie":"女"}
+{"xuehao":150104011,"xingming":"滕芳",	 "xingbie":"女"}
+{"xuehao":150104012,"xingming":"陈礼才",	 "xingbie":"男"}
+{"xuehao":150104013,"xingming":"龙水清",	 "xingbie":"男"}
+{"xuehao":150104014,"xingming":"张明梦",	 "xingbie":"男"}
+{"xuehao":150104015,"xingming":"张小蝶",	 "xingbie":"女"}
+{"xuehao":150104016,"xingming":"杨凌迦",	 "xingbie":"女"}
+{"xuehao":150104017,"xingming":"刘宏艳",	 "xingbie":"女"}
+{"xuehao":150104018,"xingming":"全忠娇",	 "xingbie":"女"}
+{"xuehao":150104019,"xingming":"陈显",	 "xingbie":"女"}
+{"xuehao":150104020,"xingming":"钟山",	 "xingbie":"男"}
+{"xuehao":150104021,"xingming":"杨江霞",	 "xingbie":"女"}
+{"xuehao":150104022,"xingming":"李艰",	 "xingbie":"男"}
+{"xuehao":150104023,"xingming":"田雪",	 "xingbie":"女"}
+{"xuehao":150104024,"xingming":"陈育帆",	 "xingbie":"男"}
+{"xuehao":150104025,"xingming":"唐元群",	 "xingbie":"女"}
+{"xuehao":150104026,"xingming":"李银姣",	 "xingbie":"女"}
+{"xuehao":150104027,"xingming":"刘媛元",	 "xingbie":"女"}
+{"xuehao":150104028,"xingming":"丁永雄",	 "xingbie":"男"}
+{"xuehao":150104029,"xingming":"孙明亮",	 "xingbie":"男"}
+{"xuehao":150104030,"xingming":"李秀煜",	 "xingbie":"男"}
+{"xuehao":150104031,"xingming":"李万山",	 "xingbie":"男"}
+{"xuehao":150104032,"xingming":"邰昌菊",	 "xingbie":"女"}
+{"xuehao":150104033,"xingming":"江显丽",	 "xingbie":"女"}
+{"xuehao":150104034,"xingming":"龙  武",	 "xingbie":"男"}
+{"xuehao":150104035,"xingming":"龙运腾",	 "xingbie":"男"}
+{"xuehao":150104036,"xingming":"李启英",	 "xingbie":"女"}
+{"xuehao":150104037,"xingming":"杨  忠",	 "xingbie":"男"}
+{"xuehao":150104038,"xingming":"关  翠",	 "xingbie":"女"}
+{"xuehao":150104039,"xingming":"梁高伟",	 "xingbie":"男"}
+{"xuehao":150104040,"xingming":"邰胜东",	 "xingbie":"男"}
+{"xuehao":150104041,"xingming":"潘  婷",	 "xingbie":"女"}
+{"xuehao":150104042,"xingming":"魏启芬",	 "xingbie":"女"}
+{"xuehao":150104043,"xingming":"蒋徐庐",	 "xingbie":"男"}
+{"xuehao":150104044,"xingming":"刘文龙",	 "xingbie":"男"}
+{"xuehao":150104045,"xingming":"尹庆国",	 "xingbie":"男"}
+{"xuehao":150104046,"xingming":"冯子鑫",	 "xingbie":"女"}
+{"xuehao":150104047,"xingming":"蒋兴怡",	 "xingbie":"女"}
+{"xuehao":150104048,"xingming":"魏肇琪",	 "xingbie":"女"}
+{"xuehao":150104049,"xingming":"雷胜富",	 "xingbie":"男"}
+{"xuehao":150104050,"xingming":"姚本泽",	 "xingbie":"男"}
+{"xuehao":150104051,"xingming":"邰雪倩",	 "xingbie":"女"}
+{"xuehao":150104052,"xingming":"张  虹",	 "xingbie":"女"}
+{"xuehao":150104053,"xingming":"蒋龙婷",	 "xingbie":"女"}
+{"xuehao":150104054,"xingming":"龙启锋",	 "xingbie":"男"}
+{"xuehao":150104055,"xingming":"龙  德",	 "xingbie":"男"}
+{"xuehao":150104056,"xingming":"龙运祥",	 "xingbie":"男"}
+{"xuehao":150104057,"xingming":"魏啟倩",	 "xingbie":"女"}
+{"xuehao":150104058,"xingming":"胡雪",	 "xingbie":"女"}
+{"xuehao":150104059,"xingming":"陈红",	 "xingbie":"女"}
+{"xuehao":150104060,"xingming":"刘太红",	 "xingbie":"女"}
+{"xuehao":150104061,"xingming":"曾宪河",	 "xingbie":"男"}
+{"xuehao":150104062,"xingming":"邱启城",	 "xingbie":"男"}

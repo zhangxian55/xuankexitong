@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>所有学生密码</title>
+    <style type="text/css">
+        p{
+            border-bottom:1px solid red;
+            line-height:80px;
+        }
+    </style>
+</head>
+<body>
+    <h1>亲爱的老师你好，所有学生密码已经重置如下：</h1>
+    <h1>一旦生成了密码，不要再次访问本页面！！</h1>
+
+    <% for(var i = 0 ; i < students.length ; i++) {%>
+        <p>
+            <%=students[i].xuehao%>  <%=students[i].xingming%> 的密码是 <%=students[i].yuanwenmima%>
+        </p>
+    <% } %>
+</body>
+</html>

@@ -1,0 +1,62 @@
+{"nianji":1,"xingbie":"女","xingming":"雷胜珍","xuanke":[],"xuehao":150104001}
+{"nianji":1,"xingbie":"女","xingming":"邰秋荣","xuanke":[],"xuehao":150104002}
+{"nianji":1,"xingbie":"女","xingming":"左惠","xuanke":[],"xuehao":150104003}
+{"nianji":1,"xingbie":"女","xingming":"刘莉","xuanke":[],"xuehao":150104004}
+{"nianji":1,"xingbie":"女","xingming":"潘巧丽","xuanke":[],"xuehao":150104005}
+{"nianji":1,"xingbie":"男","xingming":"穆显钰","xuanke":[],"xuehao":150104006}
+{"nianji":1,"xingbie":"女","xingming":"高杰","xuanke":[],"xuehao":150104007}
+{"nianji":1,"xingbie":"男","xingming":"邰秋明","xuanke":[],"xuehao":150104009}
+{"nianji":1,"xingbie":"女","xingming":"杨文涛","xuanke":[],"xuehao":150104008}
+{"nianji":1,"xingbie":"女","xingming":"邰梅香","xuanke":[],"xuehao":150104010}
+{"nianji":1,"xingbie":"女","xingming":"滕芳","xuanke":[],"xuehao":150104011}
+{"nianji":1,"xingbie":"男","xingming":"陈礼才","xuanke":[],"xuehao":150104012}
+{"nianji":2,"xingbie":"男","xingming":"龙水清","xuanke":[],"xuehao":150104013}
+{"nianji":2,"xingbie":"男","xingming":"张明梦","xuanke":[],"xuehao":150104014}
+{"nianji":2,"xingbie":"女","xingming":"张小蝶","xuanke":[],"xuehao":150104015}
+{"nianji":2,"xingbie":"女","xingming":"杨凌迦","xuanke":[],"xuehao":150104016}
+{"nianji":2,"xingbie":"男","xingming":"李艰","xuanke":[],"xuehao":150104022}
+{"nianji":2,"xingbie":"女","xingming":"田雪","xuanke":[],"xuehao":150104023}
+{"nianji":2,"xingbie":"男","xingming":"陈育帆","xuanke":[],"xuehao":150104024}
+{"nianji":2,"xingbie":"女","xingming":"唐元群","xuanke":[],"xuehao":150104025}
+{"nianji":2,"xingbie":"女","xingming":"李银姣","xuanke":[],"xuehao":150104026}
+{"nianji":2,"xingbie":"女","xingming":"刘媛元","xuanke":[],"xuehao":150104027}
+{"nianji":2,"xingbie":"男","xingming":"丁永雄","xuanke":[],"xuehao":150104028}
+{"nianji":3,"xingbie":"男","xingming":"孙明亮","xuanke":[],"xuehao":150104029}
+{"nianji":3,"xingbie":"男","xingming":"李秀煜","xuanke":[],"xuehao":150104030}
+{"nianji":3,"xingbie":"女","xingming":"刘宏艳","xuanke":[],"xuehao":150104017}
+{"nianji":3,"xingbie":"男","xingming":"李万山","xuanke":[],"xuehao":150104031}
+{"nianji":3,"xingbie":"女","xingming":"邰昌菊","xuanke":[],"xuehao":150104032}
+{"nianji":3,"xingbie":"女","xingming":"江显丽","xuanke":[],"xuehao":150104033}
+{"nianji":3,"xingbie":"男","xingming":"龙  武","xuanke":[],"xuehao":150104034}
+{"nianji":3,"xingbie":"男","xingming":"龙运腾","xuanke":[],"xuehao":150104035}
+{"nianji":3,"xingbie":"女","xingming":"李启英","xuanke":[],"xuehao":150104036}
+{"nianji":3,"xingbie":"女","xingming":"全忠娇","xuanke":[],"xuehao":150104018}
+{"nianji":4,"xingbie":"女","xingming":"陈显","xuanke":[],"xuehao":150104019}
+{"nianji":4,"xingbie":"男","xingming":"杨  忠","xuanke":[],"xuehao":150104037}
+{"nianji":4,"xingbie":"男","xingming":"钟山","xuanke":[],"xuehao":150104020}
+{"nianji":4,"xingbie":"女","xingming":"杨江霞","xuanke":[],"xuehao":150104021}
+{"nianji":4,"xingbie":"女","xingming":"关  翠","xuanke":[],"xuehao":150104038}
+{"nianji":4,"xingbie":"男","xingming":"梁高伟","xuanke":[],"xuehao":150104039}
+{"nianji":4,"xingbie":"男","xingming":"邰胜东","xuanke":[],"xuehao":150104040}
+{"nianji":4,"xingbie":"女","xingming":"潘  婷","xuanke":[],"xuehao":150104041}
+{"nianji":4,"xingbie":"女","xingming":"魏启芬","xuanke":[],"xuehao":150104042}
+{"nianji":4,"xingbie":"男","xingming":"蒋徐庐","xuanke":[],"xuehao":150104043}
+{"nianji":4,"xingbie":"男","xingming":"刘文龙","xuanke":[],"xuehao":150104044}
+{"nianji":4,"xingbie":"男","xingming":"尹庆国","xuanke":[],"xuehao":150104045}
+{"nianji":4,"xingbie":"女","xingming":"冯子鑫","xuanke":[],"xuehao":150104046}
+{"nianji":5,"xingbie":"女","xingming":"蒋兴怡","xuanke":[],"xuehao":150104047}
+{"nianji":5,"xingbie":"女","xingming":"魏肇琪","xuanke":[],"xuehao":150104048}
+{"nianji":5,"xingbie":"男","xingming":"雷胜富","xuanke":[],"xuehao":150104049}
+{"nianji":5,"xingbie":"男","xingming":"姚本泽","xuanke":[],"xuehao":150104050}
+{"nianji":5,"xingbie":"女","xingming":"邰雪倩","xuanke":[],"xuehao":150104051}
+{"nianji":5,"xingbie":"女","xingming":"张  虹","xuanke":[],"xuehao":150104052}
+{"nianji":5,"xingbie":"女","xingming":"蒋龙婷","xuanke":[],"xuehao":150104053}
+{"nianji":5,"xingbie":"男","xingming":"龙启锋","xuanke":[],"xuehao":150104054}
+{"nianji":5,"xingbie":"男","xingming":"龙  德","xuanke":[],"xuehao":150104055}
+{"nianji":5,"xingbie":"男","xingming":"龙运祥","xuanke":[],"xuehao":150104056}
+{"nianji":6,"xingbie":"女","xingming":"胡雪","xuanke":[],"xuehao":150104058}
+{"nianji":6,"xingbie":"女","xingming":"魏啟倩","xuanke":[],"xuehao":150104057}
+{"nianji":6,"xingbie":"女","xingming":"陈红","xuanke":[],"xuehao":150104059}
+{"nianji":6,"xingbie":"女","xingming":"刘太红","xuanke":[],"xuehao":150104060}
+{"nianji":6,"xingbie":"男","xingming":"曾宪河","xuanke":[],"xuehao":150104061}
+{"nianji":6,"xingbie":"男","xingming":"邱启城","xuanke":[],"xuehao":150104062}
